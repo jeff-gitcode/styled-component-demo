@@ -1,10 +1,24 @@
-## Getting Started with Create React App
+## Create React App with Styled Component
 
 ## Tech Stack
+
+- [x] cra
 - [x] styled component
-- 
-- 
-- 
+      ![alt text](./doc/styled-component-demo.gif)
+
+```javascript
+
+$ npm install --global yarn
+
+$ npx create-react-app styled-component-demo
+
+$ cd styled-component-demo
+
+$ yarn add styled-component
+
+$ yarn start
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
